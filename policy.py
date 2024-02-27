@@ -32,3 +32,4 @@ class Policy(nn.Module):
         action_std = torch.exp(self.logStd)
         
         return action_mean, action_logStd, action_std
+    
