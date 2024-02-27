@@ -1,1 +1,1 @@
-# trpo
+# Trust Region Policy Optimization
